@@ -14,6 +14,10 @@ I speak English, Afrikaans and Dutch 🙂
         -   [EasyEquities](https://www.easyequities.co.za/) 🇿🇦
         -   [Mukuru](https://www.mukuru.com/) 🇿🇦
 
+- ## 📫 How to reach me:
+    -  💻 [LinkedIn](https://www.linkedin.com/in/glen-attwell-329167a2/)
+    -  📷 [Instagram](https://www.instagram.com/glen_theawesome/)
+
 <!--
 **GlenAttwell/GlenAttwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
