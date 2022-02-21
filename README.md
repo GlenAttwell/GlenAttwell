@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Glen Attwell 🧔, I'm a code herder 🧙‍♂️ from sunny South Africa!
+My name is Glen Attwell 🧔, I'm a code herder 🧙‍♂️ from sunny South Africa currently living in The Netherlands.
 
 I mainly work in the .Net space with C# but am also well versed with Angular (2.0 +) and ReactJs(in TypeScript and JavaScript).
 
