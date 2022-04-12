@@ -15,7 +15,7 @@ I speak English, Afrikaans and Dutch 🙂
         -   [Mukuru](https://www.mukuru.com/) 🇿🇦
 
 - ## 📫 How to reach me:
-    -  💻 [LinkedIn](https://www.linkedin.com/in/glen-attwell-329167a2/)
+    -  💻 [LinkedIn](https://www.linkedin.com/in/glen-attwell/)
     -  📷 [Instagram](https://www.instagram.com/glen_theawesome/)
 
 <!--
