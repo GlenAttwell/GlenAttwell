@@ -2,13 +2,14 @@
 
 My name is Glen Attwell 🧔, I'm a code herder 🧙‍♂️ from sunny South Africa 🇿🇦 currently living in The Netherlands 🇳🇱.
 
-I mainly work in the .Net space with C# but am also well versed with Angular (2.0 +) and ReactJs(in TypeScript and JavaScript).
+I mainly work in the React (JavaScript / TypeScript) but am also well versed with .Net space with C# and Angular (2.0 +).
 
 I speak English, Afrikaans and Dutch 🙂
 
 - ## 🔭 Current projects/clients
-    - Currently I'm working as a software developer for [Entelect](http://entelect.nl/) based at [National Institute for Public Health and Environment (Rijksinstituut voor Volksgezondheid en Milieu (RIVM))](https://rivm.nl/)
+    - Currently I'm working as a Senior Software Engineer for [Entelect](http://entelect.nl/) based at [RaboBank](https://www.rabobank.nl/particulieren)
     - Previous Clients:
+        -   [National Institute for Public Health and Environment (Rijksinstituut voor Volksgezondheid en Milieu (RIVM))](https://rivm.nl/) 🇳🇱
         -   [PeriPlus](https://www.periplus.nl/nl/home/) 🇳🇱
         -   [Hollard Insurance](https://www.hollard.co.za/) 🇿🇦
         -   [EasyEquities](https://www.easyequities.co.za/) 🇿🇦
